@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['main.py', 'preprocessing\\data_balancer.py', 'preprocessing\\simulation.py', 'evaluation\\tratical_report_generator.py', 'preprocessing\\feature_engineering.py', 'training\\model_manager.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
